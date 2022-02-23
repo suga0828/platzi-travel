@@ -38,4 +38,5 @@ module.exports = {
     width: ['responsive', 'hover', 'focus'],
   },
   plugins: [],
+  darkMode: 'class'
 }
